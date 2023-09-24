@@ -1,0 +1,52 @@
+Alternativas para gestão de projetos:
+
+--------------------------------------------------------------------------------
+Outsourcing:
+
+A gestão do projeto é de responsabilidade da contratante (Cliente).
+
+A Contratada (fornecedor) disponibiliza recursos por hora/trabalho:
+Menor compromisso com o resultado efetivo do projeto;
+
+O cliente necessita expertise na gestão dos recursos.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Contrato por produto:
+
+A gestão do projeto é de responsabilidade da contratada (fornecedor)
+
+O cliente solicita e recebe um produto:
+Necessária total confiança nos resultados
+
+Único benefício é o produto recebido
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Gestão Colaborativa:
+
+A gestão do projeto é de responsabilidade da contratada (fornecedor) e do contratante (cliente), em caráter colaborativo
+
+Cliente participa do desenvolvimento do produto:
+
+Qualidade acompanhada ao longo de todo o ciclo
+
+Cliente adquire expertise para novos projetos
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Estrutura Organizacional (Stakeholders)
+
+Patrocinadores (sponsors): Investidores, diretores, alta gerência, clientes
+externos e internos.
+
+Indivíduo ou grupo de indivíduos, interno ou externo à organização, que fornece os recursos financeiros necessários para que o projeto possa ser executado. 
+
+Comitê Executivo (Steering Committee)
+Comitê de patrocinadores, também chamado Conselho do Projeto, deliberativo, que objetiva solucionar os problemas maiores, e ao qual o Gerente do Projeto reporta.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
