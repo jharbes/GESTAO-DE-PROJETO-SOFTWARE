@@ -50,3 +50,182 @@ Comitê de patrocinadores, também chamado Conselho do Projeto, deliberativo, qu
 --------------------------------------------------------------------------------
 
 
+
+
+
+Projeto é “um empreendimento temporário, planejado, executado e controlado, com o objetivo de criar um produto ou serviço único”.
+
+Exemplos de projetos: 
+Desenvolvimento de um novo produto, um plano de negócios, um planejamento financeiro, etc. 
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Características Marcantes dos Projetos
+ 
+Tempo, Elaboração e Resultado
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Escopo de Projetos
+
+O que é Escopo do produto?
+
+Escopo do produto é o conjunto de características que descrevem o resultado final do projeto (o produto acabado). 
+O gerente de projetos deve entender quais são as expectativas do cliente em relação ao produto e levantar as suas características para entregar de acordo com o esperado.
+
+O que é Escopo do projeto?
+
+Escopo de projeto é o detalhamento de todo o trabalho necessário para entregar o produto final dentro das expectativas do cliente.
+O gerente de Projetos deve definir o escopo do produto para então definir o escopo de projeto: é preciso saber o que deve ser entregue para definir como será feito.
+
+
+
+
+Diferença entre Escopo de Projeto e Escopo de Produto
+
+
+Escopo de Produto - Exemplo
+
+Em um projeto de construção de uma casa, temos:
+
+Cliente: futuro dono da casa, pessoa que solicitou a edificação.
+Partes interessadas: demais moradores da casa, e vizinhança. Pessoas que podem interferir nas características dessa casa.
+Produto: casa.
+Escopo do produto: quantidade de cômodos, layout da parte externa, tamanho da garagem, quantidade de janelas e etc.
+
+Cabe ao gerente de projetos conseguir identificar as expectativas das partes interessadas e estruturar o escopo do produto, que irá resultar no projeto.
+A partir disso estabelecer o escopo de projeto:
+
+
+Escopo de Projeto - Exemplo
+
+Partindo do mesmo exemplo, temos que: 
+
+Produto a ser entregue casa
+
+Cliente: futuro dono da casa, pessoa que solicitou a edificação.
+Partes interessadas: demais moradores da casa, e vizinhança. Pessoas que podem interferir nas características dessa casa.
+Produto: casa.
+Escopo do produto: quantidade de cômodos, layout da parte externa, tamanho da garagem, quantidade de janelas, etc.
+Escopo de projeto: comprar o terreno, contratar de mão de obra, obter licença da prefeitura, fazer terraplenagem, fazer fundação, comprar material, etc.
+
+
+
+Resumindo
+
+Escopo de Produto
+Características e funções que descrevem um produto, serviço ou resultado.
+
+Escopo de Projeto
+Trabalho que precisa ser realizado para entregar um produto, serviço ou resultado com as características e funções especificadas. 
+
+Um estudo do PMI/Rio (Benchmark 2005-2006)apontou que 98% do planejamentos contemplem a definição do escopo. No entanto, cerca de 70% dos problemas em projetos estão vinculados às mudanças constantes no escopo.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+Definição do Escopo do Projeto
+
+Deve conter, em geral, os seguintes itens :
+
+-Objetivos do projeto – critérios quantificáveis que devem ser encontrados no projeto para que ele seja considerado sucesso;
+-Necessidades a serem atendidas;
+-Justificativa do projeto;
+-Produto do projeto;
+-Principais subprodutos do projeto;
+-Datas de conclusão específicas, tanto para a conclusão do projeto como para etapas intermediárias;
+-Análise de Riscos;
+-Critérios específicos de qualidade que os processos de geração dos subprodutos devam atender;
+-Limites de custo que o projeto não excederá.
+
+
+Passos para definição de Escopo de Projetos
+
+-Identificar os interessados do projeto
+-Obter todas as informações e subsídios
+-Efetuar reunião de ajuste de expectativas
+-Estudar meticulosamente o que o cliente necessita
+-Redigir uma declaração do escopo do projeto
+
+O processo de definição do escopo é uma variável crítica para o sucesso dos projetos!
+Logo: Nunca comece um projeto sem antes:
+
+-Definir o Escopo do produto;
+-Definir o escopo do projeto
+-Identificar as partes Interessadas;
+-Conhecer o produto a ser desenvolvido
+-Ter em mãos todos os recursos necessários para começar o projeto.
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+EAP = Estrutura Analítica do projeto
+
+-A EAP ou WBS (Work breakdown structure) é uma decomposição hierárquica orientada à entrega do trabalho a ser executado pela equipe do projeto, para atingir os objetivos do projeto e criar as entregas necessárias. 
+
+-A EAP subdivide o trabalho do projeto em partes menores e mais facilmente gerenciáveis, em que cada nível descendente da EAP representa uma definição cada vez mais detalhada do trabalho do projeto. 
+
+-É possível agendar, estimar custos, monitorar e controlar o trabalho planejado contido nos componentes de nível mais baixo da EAP, denominados pacotes de trabalho. 
+
+-É a representação gráfica da hierarquia de um projeto;
+
+-Traduz o processo de desagregação (baixo) e integração (cima) do trabalho do projeto, auxiliando a execução e controle das atividades do projeto;
+
+-Utiliza-se a ferramenta de decomposição para elaborar uma EAP;
+
+-É  a base na qual o projeto é conduzido;
+
+-O trabalho que não está na EAP está fora do projeto e não será realizado.	
+
+
+Vantagens / Benefícios da Construção de uma EAP
+
+-Organiza e define o escopo total do projeto;
+-Subdivide o trabalho em partes menores e mais facilmente gerenciáveis;
+-Representa uma definição ainda mais detalhada do trabalho do projeto;
+-Auxilia os interessados a visualizar as entregas do projeto.
+
+
+
+Exemplo de decomposição de escopo em uma EAP
+
+Projeto: Pintar a Casa
+
+**Preparar materiais 
+Comprar tinta 
+Comprar escada 
+Comprar pincéis / rolos 
+Comprar removedor de papel de parede 
+
+**Preparar sala 
+Remover papel de parede antigo 
+Remover decorações destacáveis 
+Cobrir chão com jornais 
+Cobrir tomadas com fita 
+Cobrir móveis com lençóis velhos 
+
+**Pintar a sala 
+
+**Limpar a sala 
+Jogar fora, ou guardar a tinta que sobrou 
+Limpar pincéis e rolos 
+Jogar fora jornais 
+Remover e limpar lençóis 
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Envolvidos no projeto
+
+Em todo projeto existem partes envolvidas, principais e secundárias (Diretos e Indiretos).
+
+Gerente do projeto: indivíduo responsável pela gerência do projeto.  
+
+Cliente: indivíduo ou organização que fará uso do produto do projeto. Podem existir múltiplas camadas de clientes. Por exemplo, os clientes de um novo produto farmacêutico incluem os médicos que o prescrevem, os pacientes que o tomam e as companhias de seguro que pagam por ele. Em algumas áreas de aplicação, clientes e usuário são sinônimos, enquanto em outros o cliente se refere a entidade que compra os resultados deste projeto e usuário são aqueles que usam diretamente o produto do projeto. 
+
+Organização executora - empresa cujos funcionários estão mais diretamente envolvidos na execução do projeto.
+
+Patrocinador - indivíduo ou grupo, dentro ou fora da organização executora, que provê os recursos financeiros, em dinheiro ou espécie, para o projeto.   
