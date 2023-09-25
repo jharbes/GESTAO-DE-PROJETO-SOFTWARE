@@ -229,3 +229,22 @@ Cliente: indivíduo ou organização que fará uso do produto do projeto. Podem 
 Organização executora - empresa cujos funcionários estão mais diretamente envolvidos na execução do projeto.
 
 Patrocinador - indivíduo ou grupo, dentro ou fora da organização executora, que provê os recursos financeiros, em dinheiro ou espécie, para o projeto.   
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+O PDCA ou Ciclo de Deming é uma metodologia de gerenciamento que tem como objetivo a melhoria de processos de forma constante. Esse ciclo se baseia em quatro etapas: planejar (plan), fazer (do), checar (check) e agir (act).
+
+Planejamento (P): 
+O planejamento depende da fase de iniciação do projeto, uma vez que as atividades planejadas devem ser somente as necessárias para cumprir o escopo do projeto definido na proposta;
+
+Execução (D): 
+Treinar (se necessário), executar o planejado, gerenciar o projeto, documentar a execução, consultar o planejamento para as próximas atividades, acompanhar a qualidade dos produtos e atualizar o arquivo do plano do projeto no MS Project;
+
+Verificação (C): 
+Fazer reuniões periódicas, avaliar o executado em relação ao planejado,
+Avaliar o desempenho do projeto, avaliar solicitações de mudança e rever o plano de riscos;
+
+Ação (A): 
+tomar as ações corretivas e fazer ajustes no planejamento, se necessário, encerrar o projeto com propostas de aproveitamento dos seus produtos do projeto e respectivos indicadores para acompanhamento dos resultados esperados.
